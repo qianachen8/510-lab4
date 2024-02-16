@@ -13,7 +13,9 @@ app.py: A world clock app with four locations
 
 ## Lessions Learned
 -- How to use datetime function
+
 -- How to convert UNIX Timestamp to Human-Readable Time
+
 -- Automate, customize, and execute the software development workflows
 
 ## Questions
